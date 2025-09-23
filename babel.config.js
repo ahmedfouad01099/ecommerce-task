@@ -13,6 +13,8 @@ module.exports = {
         alias: {
           '@common': './src/common',
           '@helpers': './src/helpers',
+          '@component': './src/component',
+          '@skeleton': './src/Skeleton'
         },
       },
     ],

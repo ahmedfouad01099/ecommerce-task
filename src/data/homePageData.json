@@ -1,0 +1,941 @@
+{
+  "status": 1,
+  "data": {
+    "trendingProducts": [
+      {
+        "id": 71,
+        "image": "16919197821687981497image_25-removebg-preview.png",
+        "category_id": 8,
+        "model": "TAX-1",
+        "price": "50.00",
+        "quantity": 4438,
+        "sort_order": 1,
+        "status": 1,
+        "date_available": "13/08/2023",
+        "review_avg": null,
+        "product_description": {
+          "name": "Product Tax",
+          "id": 270,
+          "product_id": 71
+        },
+        "special": null
+      },
+      {
+        "id": 2,
+        "image": "1689405160168796277032767-2-axe-spray-transparent-background_1__1_-removebg-preview.png",
+        "category_id": 7,
+        "model": "Headphone",
+        "price": "60.00",
+        "quantity": 4938,
+        "sort_order": 1,
+        "status": 1,
+        "date_available": "28/06/2023",
+        "review_avg": null,
+        "product_description": {
+          "name": "Black Headphone",
+          "id": 268,
+          "product_id": 2
+        },
+        "special": null
+      },
+      {
+        "id": 3,
+        "image": "16894050301687963110image_11-removebg-preview (1).png",
+        "category_id": 1,
+        "model": "TSHIR",
+        "price": "90.00",
+        "quantity": 49980,
+        "sort_order": 1,
+        "status": 1,
+        "date_available": "28/06/2023",
+        "review_avg": null,
+        "product_description": {
+          "name": "T-Shirt for Men",
+          "id": 185,
+          "product_id": 3
+        },
+        "special": {
+          "product_id": 3,
+          "price": "75.0000",
+          "start_date": "25/06/2023",
+          "end_date": "31/01/2024"
+        }
+      },
+      {
+        "id": 4,
+        "image": "16894050161687963375image_12-removebg-preview.png",
+        "category_id": 6,
+        "model": "BABY50",
+        "price": "30.00",
+        "quantity": 3992,
+        "sort_order": 1,
+        "status": 1,
+        "date_available": "28/06/2023",
+        "review_avg": null,
+        "product_description": {
+          "name": "Combo Pack for Baby Girls",
+          "id": 183,
+          "product_id": 4
+        },
+        "special": null
+      }
+    ],
+    "categoryWiseProduct": {
+      "Travel": [
+        {
+          "id": 43,
+          "image": "16882670481162308_ORH7W20-removebg-preview.png",
+          "category_id": 5,
+          "model": "MENBAG",
+          "price": "99.00",
+          "quantity": 9991,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Travel",
+            "category_id": 5
+          },
+          "product_description": {
+            "id": 225,
+            "product_id": 43,
+            "name": "Medium 25 L Laptop Backpack for Office/College/Travel  (Black, Yellow)"
+          },
+          "special": null
+        },
+        {
+          "id": 42,
+          "image": "1688266866beautiful-men-fashion-with-leather-messenger-bag-removebg-preview.png",
+          "category_id": 5,
+          "model": "LEATHER-50",
+          "price": "89.00",
+          "quantity": 8005,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Travel",
+            "category_id": 5
+          },
+          "product_description": {
+            "id": 109,
+            "product_id": 42,
+            "name": "Men fashion with leather bag"
+          },
+          "special": null
+        },
+        {
+          "id": 28,
+          "image": "1688037249Product_24.jpg",
+          "category_id": 5,
+          "model": "LAPBAG-50",
+          "price": "50.00",
+          "quantity": 5000,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "29/06/2023",
+          "category": {
+            "name": "Travel",
+            "category_id": 5
+          },
+          "product_description": {
+            "id": 215,
+            "product_id": 28,
+            "name": "Medium 25 L Laptop Backpack for Office"
+          },
+          "special": null
+        },
+        {
+          "id": 22,
+          "image": "1688034061thumnail03.png",
+          "category_id": 5,
+          "model": "BAG-56",
+          "price": "560.00",
+          "quantity": 5655,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "29/06/2023",
+          "category": {
+            "name": "Travel",
+            "category_id": 5
+          },
+          "product_description": {
+            "id": 55,
+            "product_id": 22,
+            "name": "Good Luggage Bags"
+          },
+          "special": null
+        }
+      ],
+      "Electronics": [
+        {
+          "id": 58,
+          "image": "1688271616laptop-wooden-table-removebg-preview.png",
+          "category_id": 7,
+          "model": "DELL220",
+          "price": "399.00",
+          "quantity": 5329,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Electronics",
+            "category_id": 7
+          },
+          "product_description": {
+            "id": 256,
+            "product_id": 58,
+            "name": "DELL Core i3 11th Gen - (8 GB/256 GB SSD/32 GB EMMC Storage/Ubuntu)"
+          },
+          "special": null
+        },
+        {
+          "id": 37,
+          "image": "16882645521162384_ORH9DV0-removebg-preview.png",
+          "category_id": 7,
+          "model": "KPPPO-15",
+          "price": "250.00",
+          "quantity": 500,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Electronics",
+            "category_id": 7
+          },
+          "product_description": {
+            "id": 99,
+            "product_id": 37,
+            "name": "KPPO Reno8T 5G (Sunrise Gold, 128 GB)  (8 GB RAM)"
+          },
+          "special": null
+        },
+        {
+          "id": 36,
+          "image": "16882641401386068_OYHKDO0-removebg-preview.png",
+          "category_id": 7,
+          "model": "INFNITE-60",
+          "price": "180.00",
+          "quantity": 800,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Electronics",
+            "category_id": 7
+          },
+          "product_description": {
+            "id": 169,
+            "product_id": 36,
+            "name": "Infinite Smart 7 HD (Green Apple, 64 GB)  (2 GB RAM)"
+          },
+          "special": {
+            "product_id": 36,
+            "price": "130.0000",
+            "start_date": "01/07/2023",
+            "end_date": "31/03/2024"
+          }
+        },
+        {
+          "id": 35,
+          "image": "16882639136208024_3215461-removebg-preview.png",
+          "category_id": 7,
+          "model": "MOTO-40",
+          "price": "400.00",
+          "quantity": 3999,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Electronics",
+            "category_id": 7
+          },
+          "product_description": {
+            "id": 221,
+            "product_id": 35,
+            "name": "MOTOR e13 (Aurora Green, 64 GB)  (4 GB RAM)"
+          },
+          "special": null
+        },
+        {
+          "id": 34,
+          "image": "16882636093576506_65968-removebg-preview.png",
+          "category_id": 7,
+          "model": "IPHO-799",
+          "price": "799.00",
+          "quantity": 3983,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Electronics",
+            "category_id": 7
+          },
+          "product_description": {
+            "id": 219,
+            "product_id": 34,
+            "name": "APPLEL iPhone 13 (Starlight, 128 GB)"
+          },
+          "special": null
+        },
+        {
+          "id": 33,
+          "image": "168826330111542954_12608-removebg-preview.png",
+          "category_id": 7,
+          "model": "REAL-699",
+          "price": "699.00",
+          "quantity": 9000,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Electronics",
+            "category_id": 7
+          },
+          "product_description": {
+            "id": 218,
+            "product_id": 33,
+            "name": "Real Phone 2 (White, 128 GB)  (8 GB RAM)"
+          },
+          "special": null
+        },
+        {
+          "id": 32,
+          "image": "1688040635pexels-pixabay-274973-removebg-preview.png",
+          "category_id": 7,
+          "model": "CAM-56",
+          "price": "56.00",
+          "quantity": 56889,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "29/06/2023",
+          "category": {
+            "name": "Electronics",
+            "category_id": 7
+          },
+          "product_description": {
+            "id": 83,
+            "product_id": 32,
+            "name": "DSLR Camera"
+          },
+          "special": null
+        },
+        {
+          "id": 68,
+          "image": "1688279036866884_O6CCQR0-removebg-preview.png",
+          "category_id": 7,
+          "model": "Sam32",
+          "price": "40.00",
+          "quantity": 4555,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Electronics",
+            "category_id": 7
+          },
+          "product_description": {
+            "id": 165,
+            "product_id": 68,
+            "name": "Samsung White Smart Watch"
+          },
+          "special": null
+        },
+        {
+          "id": 67,
+          "image": "1688278856803760_21458-NTQL9F-removebg-preview.png",
+          "category_id": 7,
+          "model": "APPLW32",
+          "price": "109.00",
+          "quantity": 1562,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Electronics",
+            "category_id": 7
+          },
+          "product_description": {
+            "id": 163,
+            "product_id": 67,
+            "name": "Appple Smart  Watch"
+          },
+          "special": null
+        },
+        {
+          "id": 57,
+          "image": "16882713771191276_OSXDCD0-removebg-preview.png",
+          "category_id": 7,
+          "model": "ASUS599",
+          "price": "599.00",
+          "quantity": 5995,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Electronics",
+            "category_id": 7
+          },
+          "product_description": {
+            "id": 141,
+            "product_id": 57,
+            "name": "ASUS Vivobook 15 Core i3 11th Gen - (8 GB/512 GB SSD/Windows 11 Home)"
+          },
+          "special": null
+        }
+      ],
+      "Furniture": [
+        {
+          "id": 71,
+          "image": "16919197821687981497image_25-removebg-preview.png",
+          "category_id": 8,
+          "model": "TAX-1",
+          "price": "50.00",
+          "quantity": 4438,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "13/08/2023",
+          "category": {
+            "name": "Furniture",
+            "category_id": 8
+          },
+          "product_description": {
+            "id": 270,
+            "product_id": 71,
+            "name": "Product Tax"
+          },
+          "special": null
+        },
+        {
+          "id": 31,
+          "image": "16894048891688032101image_26-removebg-preview.png",
+          "category_id": 8,
+          "model": "GAMING-39",
+          "price": "39.00",
+          "quantity": 8888,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "29/06/2023",
+          "category": {
+            "name": "Furniture",
+            "category_id": 8
+          },
+          "product_description": {
+            "id": 171,
+            "product_id": 31,
+            "name": "Comfortable Gaming Chair"
+          },
+          "special": null
+        },
+        {
+          "id": 15,
+          "image": "16894049381688031671image_19-removebg-preview.png",
+          "category_id": 8,
+          "model": "CHAIRYE-899",
+          "price": "899.00",
+          "quantity": 9994,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "28/06/2023",
+          "category": {
+            "name": "Furniture",
+            "category_id": 8
+          },
+          "product_description": {
+            "id": 272,
+            "product_id": 15,
+            "name": "Yellow Chair With Pillow"
+          },
+          "special": null
+        },
+        {
+          "id": 18,
+          "image": "16894050651687981497image_24-removebg-preview (1).png",
+          "category_id": 8,
+          "model": "STUDY-4565",
+          "price": "560.00",
+          "quantity": 5688,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "29/06/2023",
+          "category": {
+            "name": "Furniture",
+            "category_id": 8
+          },
+          "product_description": {
+            "id": 189,
+            "product_id": 18,
+            "name": "Modern Study Chair"
+          },
+          "special": null
+        },
+        {
+          "id": 17,
+          "image": "16894050791688031363image_20-removebg-preview.png",
+          "category_id": 8,
+          "model": "PILLOW-56",
+          "price": "560.00",
+          "quantity": 56000,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "29/06/2023",
+          "category": {
+            "name": "Furniture",
+            "category_id": 8
+          },
+          "product_description": {
+            "id": 191,
+            "product_id": 17,
+            "name": "Rounded Table With 3 Pillows"
+          },
+          "special": null
+        },
+        {
+          "id": 16,
+          "image": "16894050921688031363image_22-removebg-preview.png",
+          "category_id": 8,
+          "model": "CHAIRG-88",
+          "price": "88.00",
+          "quantity": 8022,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "29/06/2023",
+          "category": {
+            "name": "Furniture",
+            "category_id": 8
+          },
+          "product_description": {
+            "id": 266,
+            "product_id": 16,
+            "name": "Gray Comfort Chair"
+          },
+          "special": null
+        }
+      ],
+      "Women Fashion": [
+        {
+          "id": 51,
+          "image": "1688269902valerie-elash-gsKdPcIyeGg-unsplash-removebg-preview.png",
+          "category_id": 2,
+          "model": "BLAKC3",
+          "price": "30.00",
+          "quantity": 3561,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Women Fashion",
+            "category_id": 2
+          },
+          "product_description": {
+            "id": 127,
+            "product_id": 51,
+            "name": "Women Black Fancy Dress"
+          },
+          "special": null
+        },
+        {
+          "id": 41,
+          "image": "1688265499beautiful-elegance-luxury-fashion-green-handbag-removebg-preview.png",
+          "category_id": 2,
+          "model": "BAG-Women",
+          "price": "199.00",
+          "quantity": 1924,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Women Fashion",
+            "category_id": 2
+          },
+          "product_description": {
+            "id": 107,
+            "product_id": 41,
+            "name": "Luxury Shopping Bag For Women"
+          },
+          "special": null
+        },
+        {
+          "id": 50,
+          "image": "1688269726fashion-woman-with-clothes-removebg-preview.png",
+          "category_id": 2,
+          "model": "WOMEN34",
+          "price": "32.00",
+          "quantity": 1234,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Women Fashion",
+            "category_id": 2
+          },
+          "product_description": {
+            "id": 125,
+            "product_id": 50,
+            "name": "Women Maxi Purple, White Dress"
+          },
+          "special": null
+        },
+        {
+          "id": 49,
+          "image": "1688269603young-woman-beautiful-red-dress-removebg-preview.png",
+          "category_id": 2,
+          "model": "DRE543",
+          "price": "59.00",
+          "quantity": 5925,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Women Fashion",
+            "category_id": 2
+          },
+          "product_description": {
+            "id": 229,
+            "product_id": 49,
+            "name": "Pretty red women dress"
+          },
+          "special": null
+        },
+        {
+          "id": 48,
+          "image": "1688268280pretty-red-head-woman-yellow-dress-posing-yellow-summer-mood-removebg-preview.png",
+          "category_id": 2,
+          "model": "HEAD44",
+          "price": "44.00",
+          "quantity": 4545,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Women Fashion",
+            "category_id": 2
+          },
+          "product_description": {
+            "id": 121,
+            "product_id": 48,
+            "name": "Pretty yellow head women dress"
+          },
+          "special": null
+        },
+        {
+          "id": 47,
+          "image": "1688268068beautiful-fashion-woman-purple-long-dress-hairstyle-with-pigtails-design-poses-studio-removebg-preview.png",
+          "category_id": 2,
+          "model": "DPURPL",
+          "price": "89.00",
+          "quantity": 8256,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Women Fashion",
+            "category_id": 2
+          },
+          "product_description": {
+            "id": 119,
+            "product_id": 47,
+            "name": "Beautiful fashion women purple dress"
+          },
+          "special": null
+        },
+        {
+          "id": 11,
+          "image": "16894049681687980206image_15-removebg-preview.png",
+          "category_id": 2,
+          "model": "SHOESW",
+          "price": "69.00",
+          "quantity": 697,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "28/06/2023",
+          "category": {
+            "name": "Women Fashion",
+            "category_id": 2
+          },
+          "product_description": {
+            "id": 177,
+            "product_id": 11,
+            "name": "Pink Sport Shoes for women"
+          },
+          "special": null
+        },
+        {
+          "id": 10,
+          "image": "16894051281687963375image_14-removebg-preview.png",
+          "category_id": 2,
+          "model": "PARTY-W50",
+          "price": "50.00",
+          "quantity": 4994,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "28/06/2023",
+          "category": {
+            "name": "Women Fashion",
+            "category_id": 2
+          },
+          "product_description": {
+            "id": 196,
+            "product_id": 10,
+            "name": "Blue Party Wear Dress"
+          },
+          "special": {
+            "product_id": 10,
+            "price": "30.0000",
+            "start_date": "25/06/2023",
+            "end_date": "31/03/2024"
+          }
+        },
+        {
+          "id": 6,
+          "image": "16894050021687963375image_13-removebg-preview.png",
+          "category_id": 2,
+          "model": "PARTY10",
+          "price": "69.00",
+          "quantity": 904,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "28/06/2023",
+          "category": {
+            "name": "Women Fashion",
+            "category_id": 2
+          },
+          "product_description": {
+            "id": 274,
+            "product_id": 6,
+            "name": "White Partywear Dress"
+          },
+          "special": null
+        }
+      ],
+      "Men Fashion": [
+        {
+          "id": 63,
+          "image": "1688272855young-spanish-man-with-tattoos-posing-street-removebg-preview.png",
+          "category_id": 1,
+          "model": "CASUAL34",
+          "price": "15.00",
+          "quantity": 5149,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Men Fashion",
+            "category_id": 1
+          },
+          "product_description": {
+            "id": 153,
+            "product_id": 63,
+            "name": "Men Slim Fit Checkered Cut Away Collar Casual Shirt"
+          },
+          "special": null
+        },
+        {
+          "id": 62,
+          "image": "1688272411young-handsome-hipster-man-standing-talking-phone-removebg-preview.png",
+          "category_id": 1,
+          "model": "SHIRTT22",
+          "price": "21.00",
+          "quantity": 12651,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Men Fashion",
+            "category_id": 1
+          },
+          "product_description": {
+            "id": 235,
+            "product_id": 62,
+            "name": "Fancy blue Shirt and pant"
+          },
+          "special": null
+        },
+        {
+          "id": 61,
+          "image": "1688272217vertical-shot-concentrated-businessman-listening-carefully-with-crossed-hands-removebg-preview.png",
+          "category_id": 1,
+          "model": "SHIPu3q",
+          "price": "25.00",
+          "quantity": 255,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Men Fashion",
+            "category_id": 1
+          },
+          "product_description": {
+            "id": 167,
+            "product_id": 61,
+            "name": "Men purple plain fancy shirt"
+          },
+          "special": {
+            "product_id": 61,
+            "price": "15.0000",
+            "start_date": "01/07/2023",
+            "end_date": "22/05/2024"
+          }
+        },
+        {
+          "id": 60,
+          "image": "1688272047portrait-handsome-confident-model-sexy-stylish-man-dressed-shirt-jeans-fashion-hipster-male-posing-near-blue-wall-studio-sunglasses-removebg-preview.png",
+          "category_id": 1,
+          "model": "FORM2",
+          "price": "35.00",
+          "quantity": 5568,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Men Fashion",
+            "category_id": 1
+          },
+          "product_description": {
+            "id": 233,
+            "product_id": 60,
+            "name": "Men Formal White Shirt With Gray pant"
+          },
+          "special": null
+        },
+        {
+          "id": 59,
+          "image": "1688271843handsome-man-wearing-sunglasses-standing-grey-wall-removebg-preview.png",
+          "category_id": 1,
+          "model": "SHIRT23",
+          "price": "25.00",
+          "quantity": 3245,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "02/07/2023",
+          "category": {
+            "name": "Men Fashion",
+            "category_id": 1
+          },
+          "product_description": {
+            "id": 145,
+            "product_id": 59,
+            "name": "Men Slim Fit Solid Casual Shirt"
+          },
+          "special": null
+        },
+        {
+          "id": 14,
+          "image": "1687981308Product_11.jpg",
+          "category_id": 1,
+          "model": "HAT-45",
+          "price": "45.00",
+          "quantity": 45677,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "28/06/2023",
+          "category": {
+            "name": "Men Fashion",
+            "category_id": 1
+          },
+          "product_description": {
+            "id": 203,
+            "product_id": 14,
+            "name": "Blue Sun Hat"
+          },
+          "special": {
+            "product_id": 14,
+            "price": "25.0000",
+            "start_date": "25/06/2023",
+            "end_date": "01/05/2024"
+          }
+        },
+        {
+          "id": 12,
+          "image": "168798037332767-2-axe-spray-transparent-background 1.png",
+          "category_id": 1,
+          "model": "AXE-19",
+          "price": "19.00",
+          "quantity": 1998,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "28/06/2023",
+          "category": {
+            "name": "Men Fashion",
+            "category_id": 1
+          },
+          "product_description": {
+            "id": 31,
+            "product_id": 12,
+            "name": "Axe Long Lasting Bodyspray"
+          },
+          "special": null
+        },
+        {
+          "id": 5,
+          "image": "168796400217-dress-shirt-png-image 1.png",
+          "category_id": 1,
+          "model": "TSHI66",
+          "price": "80.00",
+          "quantity": 4989,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "28/06/2023",
+          "category": {
+            "name": "Men Fashion",
+            "category_id": 1
+          },
+          "product_description": {
+            "id": 241,
+            "product_id": 5,
+            "name": "Men Regular Fit Solid Formal Shirt"
+          },
+          "special": null
+        },
+        {
+          "id": 3,
+          "image": "16894050301687963110image_11-removebg-preview (1).png",
+          "category_id": 1,
+          "model": "TSHIR",
+          "price": "90.00",
+          "quantity": 49980,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "28/06/2023",
+          "category": {
+            "name": "Men Fashion",
+            "category_id": 1
+          },
+          "product_description": {
+            "id": 185,
+            "product_id": 3,
+            "name": "T-Shirt for Men"
+          },
+          "special": {
+            "product_id": 3,
+            "price": "75.0000",
+            "start_date": "25/06/2023",
+            "end_date": "31/01/2024"
+          }
+        },
+        {
+          "id": 27,
+          "image": "1688036980Product_19-removebg-preview.png",
+          "category_id": 1,
+          "model": "GLASS-34",
+          "price": "15.00",
+          "quantity": 8485,
+          "sort_order": 1,
+          "status": 1,
+          "date_available": "29/06/2023",
+          "category": {
+            "name": "Men Fashion",
+            "category_id": 1
+          },
+          "product_description": {
+            "id": 67,
+            "product_id": 27,
+            "name": "Men Sun Glasses"
+          },
+          "special": null
+        }
+      ]
+    },
+    "enable_image_similarity": "1"
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "categories": [
+    {
+      "category_id": 1,
+      "image": "1687952767image_9-removebg-preview (1).png",
+      "parent_id": 0,
+      "top": null,
+      "column": null,
+      "sort_order": 2,
+      "status": 1,
+      "seller_id": null,
+      "created_at": "2023-08-20 09:08:51",
+      "updated_at": "2023-08-20 03:38:51",
+      "deleted_at": null,
+      "descriptions": [
+        {
+          "language_id": 5,
+          "name": "أزياء الرجال",
+          "description": null,
+          "meta_title": "أزياء الرجال",
+          "meta_description": "أزياء الرجال",
+          "meta_keyword": "أزياء الرجال",
+          "created_at": "2023-08-20 03:38:51",
+          "updated_at": "2023-08-20 03:38:51",
+          "deleted_at": null
+        },
+        {
+          "language_id": 4,
+          "name": "Men Fashion",
+          "description": null,
+          "meta_title": "Men Fashion",
+          "meta_description": "Men Fashion",
+          "meta_keyword": "Men Fashion",
+          "created_at": "2023-08-20 03:38:51",
+          "updated_at": "2023-08-20 03:38:51",
+          "deleted_at": null
+        }
+      ]
+    },
+    {
+      "category_id": 2,
+      "image": "1687952789image_10-removebg-preview (1).png",
+      "parent_id": 0,
+      "top": null,
+      "column": null,
+      "sort_order": 2,
+      "status": 1,
+      "seller_id": null,
+      "created_at": "2023-06-28 11:46:29",
+      "updated_at": "2023-06-28 06:16:29",
+      "deleted_at": null,
+      "descriptions": [
+        {
+          "language_id": 4,
+          "name": "Women Fashion",
+          "description": null,
+          "meta_title": "Women Fashion",
+          "meta_description": "Women Fashion",
+          "meta_keyword": "Women Fashion",
+          "created_at": "2023-06-28 06:16:29",
+          "updated_at": "2023-06-28 06:16:29",
+          "deleted_at": null
+        },
+        {
+          "language_id": 5,
+          "name": "أزياء نسائية",
+          "description": null,
+          "meta_title": "أزياء نسائية",
+          "meta_description": "أزياء نسائية",
+          "meta_keyword": "أزياء نسائية",
+          "created_at": "2023-06-28 06:16:29",
+          "updated_at": "2023-06-28 06:16:29",
+          "deleted_at": null
+        }
+      ]
+    },
+    {
+      "category_id": 3,
+      "image": "16879533704-2-shoes-free-download-png 1.png",
+      "parent_id": 0,
+      "top": null,
+      "column": null,
+      "sort_order": 3,
+      "status": 1,
+      "seller_id": null,
+      "created_at": "2023-06-28 11:56:10",
+      "updated_at": "2023-06-28 06:26:10",
+      "deleted_at": null,
+      "descriptions": [
+        {
+          "language_id": 5,
+          "name": "أحذية",
+          "description": null,
+          "meta_title": "أحذية",
+          "meta_description": "أحذية",
+          "meta_keyword": "أحذية",
+          "created_at": "2023-06-28 06:26:10",
+          "updated_at": "2023-06-28 06:26:10",
+          "deleted_at": null
+        },
+        {
+          "language_id": 4,
+          "name": "Shoes",
+          "description": null,
+          "meta_title": "Shoes",
+          "meta_description": "Shoes",
+          "meta_keyword": "Shoes",
+          "created_at": "2023-06-28 06:26:10",
+          "updated_at": "2023-06-28 06:26:10",
+          "deleted_at": null
+        }
+      ]
+    },
+    {
+      "category_id": 4,
+      "image": "168795297541624-7-groceries-hd-download-hd-png 1.png",
+      "parent_id": 0,
+      "top": null,
+      "column": null,
+      "sort_order": 10,
+      "status": 1,
+      "seller_id": null,
+      "created_at": "2023-07-15 07:27:14",
+      "updated_at": "2023-07-15 07:27:14",
+      "deleted_at": null,
+      "descriptions": [
+        {
+          "language_id": 4,
+          "name": "Grocery",
+          "description": null,
+          "meta_title": "Grocery",
+          "meta_description": "Grocery",
+          "meta_keyword": "Grocery",
+          "created_at": "2023-07-15 07:27:14",
+          "updated_at": "2023-07-15 07:27:14",
+          "deleted_at": null
+        },
+        {
+          "language_id": 5,
+          "name": "خضروات",
+          "description": null,
+          "meta_title": "خضروات",
+          "meta_description": "خضروات",
+          "meta_keyword": "خضروات",
+          "created_at": "2023-07-15 07:27:14",
+          "updated_at": "2023-07-15 07:27:14",
+          "deleted_at": null
+        }
+      ]
+    },
+    {
+      "category_id": 5,
+      "image": "16879529674-2-luggage-free-png-image 1.png",
+      "parent_id": 0,
+      "top": null,
+      "column": null,
+      "sort_order": 5,
+      "status": 1,
+      "seller_id": null,
+      "created_at": "2023-06-28 11:49:27",
+      "updated_at": "2023-06-28 06:19:27",
+      "deleted_at": null,
+      "descriptions": [
+        {
+          "language_id": 5,
+          "name": "يسافر",
+          "description": null,
+          "meta_title": "يسافر",
+          "meta_description": "يسافر",
+          "meta_keyword": "يسافر",
+          "created_at": "2023-06-28 06:19:27",
+          "updated_at": "2023-06-28 06:19:27",
+          "deleted_at": null
+        },
+        {
+          "language_id": 4,
+          "name": "Travel",
+          "description": null,
+          "meta_title": "Travel",
+          "meta_description": "Travel",
+          "meta_keyword": "Travel",
+          "created_at": "2023-06-28 06:19:27",
+          "updated_at": "2023-06-28 06:19:27",
+          "deleted_at": null
+        }
+      ]
+    },
+    {
+      "category_id": 6,
+      "image": "1687952951pngwing 1.png",
+      "parent_id": 0,
+      "top": null,
+      "column": null,
+      "sort_order": 6,
+      "status": 1,
+      "seller_id": null,
+      "created_at": "2023-06-28 11:49:11",
+      "updated_at": "2023-06-28 06:19:11",
+      "deleted_at": null,
+      "descriptions": [
+        {
+          "language_id": 4,
+          "name": "Kids Wear",
+          "description": null,
+          "meta_title": "Kids Wear",
+          "meta_description": "Kids Wear",
+          "meta_keyword": "Kids Wear",
+          "created_at": "2023-06-28 06:19:11",
+          "updated_at": "2023-06-28 06:19:11",
+          "deleted_at": null
+        },
+        {
+          "language_id": 5,
+          "name": "ملابس الاطفال",
+          "description": null,
+          "meta_title": "ملابس الاطفال",
+          "meta_description": "ملابس الاطفال",
+          "meta_keyword": "ملابس الاطفال",
+          "created_at": "2023-06-28 06:19:11",
+          "updated_at": "2023-06-28 06:19:11",
+          "deleted_at": null
+        }
+      ]
+    },
+    {
+      "category_id": 7,
+      "image": "168795285932767-2-axe-spray-transparent-background_1-removebg-preview (1).png",
+      "parent_id": 0,
+      "top": null,
+      "column": null,
+      "sort_order": 1,
+      "status": 1,
+      "seller_id": null,
+      "created_at": "2023-07-14 06:00:50",
+      "updated_at": "2023-07-14 00:30:50",
+      "deleted_at": null,
+      "descriptions": [
+        {
+          "language_id": 5,
+          "name": "إلكترونيات",
+          "description": null,
+          "meta_title": "إلكترونيات",
+          "meta_description": "إلكترونيات",
+          "meta_keyword": "إلكترونيات",
+          "created_at": "2023-07-14 00:31:21",
+          "updated_at": "2023-07-14 00:31:21",
+          "deleted_at": null
+        },
+        {
+          "language_id": 4,
+          "name": "Electronics",
+          "description": null,
+          "meta_title": "Electronics",
+          "meta_description": "Electronics",
+          "meta_keyword": "Electronics",
+          "created_at": "2023-07-14 00:31:21",
+          "updated_at": "2023-07-14 00:31:21",
+          "deleted_at": null
+        }
+      ]
+    },
+    {
+      "category_id": 8,
+      "image": "169087055784395-removebg-preview.png",
+      "parent_id": 0,
+      "top": null,
+      "column": null,
+      "sort_order": 3,
+      "status": 1,
+      "seller_id": null,
+      "created_at": "2023-08-01 06:15:57",
+      "updated_at": "2023-08-01 00:45:57",
+      "deleted_at": null,
+      "descriptions": [
+        {
+          "language_id": 4,
+          "name": "Furniture",
+          "description": null,
+          "meta_title": "Furniture",
+          "meta_description": "Furniture",
+          "meta_keyword": "Furniture",
+          "created_at": "2023-08-01 05:26:45",
+          "updated_at": "2023-08-01 05:26:45",
+          "deleted_at": null
+        },
+        {
+          "language_id": 10,
+          "name": "Furniture-estonia",
+          "description": null,
+          "meta_title": "Furniture-estonia",
+          "meta_description": "Furniture-estonia",
+          "meta_keyword": "Furniture-estonia",
+          "created_at": "2023-08-01 05:26:45",
+          "updated_at": "2023-08-01 05:26:45",
+          "deleted_at": null
+        }
+      ]
+    },
+    {
+      "category_id": 9,
+      "image": "1687952912dress-shirt.png",
+      "parent_id": 1,
+      "top": null,
+      "column": null,
+      "sort_order": 2,
+      "status": 1,
+      "seller_id": null,
+      "created_at": "2023-06-28 11:48:32",
+      "updated_at": "2023-06-28 06:18:32",
+      "deleted_at": null,
+      "descriptions": [
+        {
+          "language_id": 5,
+          "name": "قميص",
+          "description": null,
+          "meta_title": "قميص",
+          "meta_description": "قميص",
+          "meta_keyword": "قميص",
+          "created_at": "2023-06-28 06:18:32",
+          "updated_at": "2023-06-28 06:18:32",
+          "deleted_at": null
+        },
+        {
+          "language_id": 4,
+          "name": "Shirt",
+          "description": null,
+          "meta_title": "Shirt",
+          "meta_description": "Shirt",
+          "meta_keyword": "Shirt",
+          "created_at": "2023-06-28 06:18:32",
+          "updated_at": "2023-06-28 06:18:32",
+          "deleted_at": null
+        }
+      ]
+    }
+  ]
+}

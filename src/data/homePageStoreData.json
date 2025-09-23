@@ -1,0 +1,596 @@
+{
+  "status": 1,
+  "data": {
+    "categories": [
+      {
+        "category_id": 7,
+        "image": "168795285932767-2-axe-spray-transparent-background_1-removebg-preview (1).png",
+        "parent_id": 0,
+        "sort_order": 1,
+        "status": 1,
+        "category_description": {
+          "name": "Electronics",
+          "category_id": 7
+        }
+      },
+      {
+        "category_id": 1,
+        "image": "1687952767image_9-removebg-preview (1).png",
+        "parent_id": 0,
+        "sort_order": 2,
+        "status": 1,
+        "category_description": {
+          "name": "Men Fashion",
+          "category_id": 1
+        },
+        "children": [
+          {
+            "category_id": 9,
+            "image": "1687952912dress-shirt.png",
+            "parent_id": 1,
+            "sort_order": 2,
+            "status": 1,
+            "category_description": {
+              "name": "Shirt",
+              "category_id": 9
+            }
+          }
+        ]
+      },
+      {
+        "category_id": 2,
+        "image": "1687952789image_10-removebg-preview (1).png",
+        "parent_id": 0,
+        "sort_order": 2,
+        "status": 1,
+        "category_description": {
+          "name": "Women Fashion",
+          "category_id": 2
+        }
+      },
+      {
+        "category_id": 3,
+        "image": "16879533704-2-shoes-free-download-png 1.png",
+        "parent_id": 0,
+        "sort_order": 3,
+        "status": 1,
+        "category_description": {
+          "name": "Shoes",
+          "category_id": 3
+        }
+      },
+      {
+        "category_id": 8,
+        "image": "169087055784395-removebg-preview.png",
+        "parent_id": 0,
+        "sort_order": 3,
+        "status": 1,
+        "category_description": {
+          "name": "Furniture",
+          "category_id": 8
+        }
+      },
+      {
+        "category_id": 5,
+        "image": "16879529674-2-luggage-free-png-image 1.png",
+        "parent_id": 0,
+        "sort_order": 5,
+        "status": 1,
+        "category_description": {
+          "name": "Travel",
+          "category_id": 5
+        }
+      },
+      {
+        "category_id": 6,
+        "image": "1687952951pngwing 1.png",
+        "parent_id": 0,
+        "sort_order": 6,
+        "status": 1,
+        "category_description": {
+          "name": "Kids Wear",
+          "category_id": 6
+        }
+      },
+      {
+        "category_id": 4,
+        "image": "168795297541624-7-groceries-hd-download-hd-png 1.png",
+        "parent_id": 0,
+        "sort_order": 10,
+        "status": 1,
+        "category_description": {
+          "name": "Grocery",
+          "category_id": 4
+        }
+      }
+    ],
+    "homepageSlider": {
+      "id": 1,
+      "name": "Application Home Page Slider",
+      "status": 1,
+      "images": [
+        {
+          "image": "16472862101.jpg",
+          "link": "product-1",
+          "sort_order": 1,
+          "banner_id": 1
+        },
+        {
+          "image": "16472862102.jpg",
+          "link": "product-2",
+          "sort_order": 2,
+          "banner_id": 1
+        },
+        {
+          "image": "16472862103.jpg",
+          "link": "cateogry-1",
+          "sort_order": 3,
+          "banner_id": 1
+        },
+        {
+          "image": "16472862104.jpg",
+          "link": "brand-6",
+          "sort_order": 4,
+          "banner_id": 1
+        }
+      ]
+    },
+    "banners": {
+      "id": 13,
+      "name": "Application Banners",
+      "status": 1,
+      "images": [
+        {
+          "image": "1688868219banner2.jpg",
+          "link": "product-89",
+          "sort_order": 2,
+          "banner_id": 13
+        },
+        {
+          "image": "16888687374481084_18713 (1).jpg",
+          "link": "category-32",
+          "sort_order": 3,
+          "banner_id": 13
+        },
+        {
+          "image": "168886873710474790_18731150 (1).jpg",
+          "link": "product-411",
+          "sort_order": 1,
+          "banner_id": 13
+        }
+      ]
+    },
+    "manufacturers": [
+      {
+        "id": 1,
+        "name": "Gucci",
+        "status": 1,
+        "sort_order": 1,
+        "image": "1687950976App-Icon-Light-removebg-preview.png"
+      },
+      {
+        "id": 2,
+        "name": "Levi's",
+        "status": 1,
+        "sort_order": 2,
+        "image": "16879509544834108_2525949-removebg-preview.png"
+      },
+      {
+        "id": 3,
+        "name": "Zara",
+        "status": 1,
+        "sort_order": 3,
+        "image": "1687950934Tradesy-01-removebg-preview.png"
+      },
+      {
+        "id": 4,
+        "name": "Chanel",
+        "status": 1,
+        "sort_order": 3,
+        "image": "1687950911825159_preview-removebg-preview (1).png"
+      },
+      {
+        "id": 5,
+        "name": "Louis Vuitton",
+        "status": 1,
+        "sort_order": 4,
+        "image": "1687950862preview-removebg-preview.png"
+      },
+      {
+        "id": 6,
+        "name": "A Com",
+        "status": 1,
+        "sort_order": 5,
+        "image": "1687950829Vector.png"
+      }
+    ],
+    "featuredproducts": [
+      {
+        "id": 65,
+        "image": "1688278474one-black-sneaker-shoe-isolated-white-removebg-preview.png",
+        "category_id": 3,
+        "model": "DWANEW",
+        "price": "39.00",
+        "quantity": 1411,
+        "sort_order": 1,
+        "status": 1,
+        "date_available": "02/07/2023",
+        "created_at": "2023-06-08T00:44:34.000000Z",
+        "viewed": 0,
+        "review_avg": null,
+        "productDescription": {
+          "id": 157,
+          "product_id": 65,
+          "language_id": 4,
+          "name": "Dwane Running Shoes For Men",
+          "description": "<p>Dwane Running Shoes For Men</p>\r\n\r\n<h1>Dwane Running Shoes For Men</h1>\r\n\r\n<p>The Dwane Running Shoes for Men are designed to provide exceptional comfort, support, and performance during your running sessions. These shoes are specifically crafted for men who are passionate about running and strive to achieve their best performance on the track or road.</p>\r\n\r\n<p>Featuring a sleek and modern design, these running shoes combine style with functionality. The upper part of the shoe is made from high-quality breathable material that allows air circulation to keep your feet cool and dry throughout your run. The lightweight construction ensures minimal weight on your feet, allowing you to move effortlessly.</p>\r\n\r\n<p>The cushioned insole provides excellent shock absorption, reducing the impact on your joints and preventing discomfort or injury. The durable outsole offers superior traction on various surfaces, providing stability and grip even in wet conditions.</p>\r\n\r\n<p>With a lace-up closure system, these shoes can be easily adjusted to fit your feet securely. The padded collar and tongue add extra comfort, while the reinforced toe cap enhances durability.</p>\r\n\r\n<p>Whether you&#39;re a professional athlete or an occasional runner, the Dwane Running Shoes for Men will become your go-to choice for all your running needs. Experience the perfect blend of style, comfort, and performance with these outstanding running shoes.0</p>",
+          "short_description": "The Dwane Running Shoes for Men offer the perfect combination of comfort and style. With their lightweight design and cushioned soles, these shoes are ideal for long-distance running or everyday workouts. Made with durable materials, they provide excellent support and stability. Stay ahead of the game with these sleek and functional running shoes.",
+          "tag": null,
+          "meta_title": "\"Dwane Running Shoes for Men - Lightweight and Durable Footwear for Active Performance\"",
+          "meta_description": "e Running Shoes for Men - Lightweight and Durable Footwear for Active Performance\"",
+          "meta_keyword": "\"running shoes for men, men's athletic footwear, lightweight running shoes, durable sports shoes, performance running sneakers, breathable trainers, comfortable jogging shoes\""
+        },
+        "category": {
+          "name": "Shoes",
+          "category_id": 3
+        },
+        "special": null
+      },
+      {
+        "id": 14,
+        "image": "1687981308Product_11.jpg",
+        "category_id": 1,
+        "model": "HAT-45",
+        "price": "45.00",
+        "quantity": 45678,
+        "sort_order": 1,
+        "status": 1,
+        "date_available": "28/06/2023",
+        "created_at": "2023-05-01T14:11:48.000000Z",
+        "viewed": 0,
+        "review_avg": null,
+        "productDescription": {
+          "id": 203,
+          "product_id": 14,
+          "language_id": 4,
+          "name": "Blue Sun Hat",
+          "description": "<p>Blue Sun Hat</p>\r\n\r\n<h1>Blue Sun Hat</h1>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>The Blue Sun Hat is a stylish and functional accessory that will keep you protected from the sun while adding a pop of color to your outfit. Made from high-quality materials, this hat offers both comfort and durability.</p>\r\n\r\n<p>The hat features a wide brim that provides excellent shade, shielding your face and neck from harmful UV rays. Whether you&#39;re lounging at the beach, gardening in your backyard, or enjoying outdoor activities, this hat will ensure you stay cool and protected.</p>\r\n\r\n<p>The vibrant blue color of the hat adds a refreshing touch to any ensemble. It complements various summer outfits, making it a versatile accessory for both casual and dressier occasions. The hat&#39;s design includes a decorative band around the base, adding an extra element of style.</p>\r\n\r\n<p>This Blue Sun Hat is also adjustable, allowing you to customize the fit according to your preference. It is suitable for both men and women with its unisex design.</p>\r\n\r\n<p>Invest in this Blue Sun Hat today and elevate your sun protection game while staying fashion-forward!</p>",
+          "short_description": "This stylish blue sun hat is the perfect accessory to shield yourself from harsh rays while enhancing your outfit. Made with high-quality materials, it offers comfort and durability. The wide brim provides excellent sun protection, making it ideal for outdoor adventures or relaxing days at the beach.",
+          "tag": null,
+          "meta_title": "\"Stay Cool and Stylish with our Blue Sun Hat | Shop Now\"",
+          "meta_description": null,
+          "meta_keyword": "blue sun hat, stylish sun hat, sun protection, beach accessories, outdoor fashion"
+        },
+        "category": {
+          "name": "Men Fashion",
+          "category_id": 1
+        },
+        "special": {
+          "product_id": 14,
+          "price": "25.0000",
+          "start_date": "25/06/2023",
+          "end_date": "01/05/2024"
+        }
+      },
+      {
+        "id": 9,
+        "image": "1689404981168797984127019-3-female-shoes-file_1__1_-removebg-preview.png",
+        "category_id": 7,
+        "model": "HEADPHONE-21",
+        "price": "59.00",
+        "quantity": 5995,
+        "sort_order": 1,
+        "status": 1,
+        "date_available": "28/06/2023",
+        "created_at": "2023-05-01T13:47:21.000000Z",
+        "viewed": 0,
+        "review_avg": null,
+        "productDescription": {
+          "id": 180,
+          "product_id": 9,
+          "language_id": 4,
+          "name": "Apple Headphone White",
+          "description": "<p>Apple Headphone White</p>\r\n\r\n<h1>Apple Headphone White</h1>\r\n\r\n<p>The Apple Headphone White is a sleek and stylish audio accessory that provides an excellent sound experience for users. Designed by Apple, it offers high-quality audio output and is compatible with various devices such as iPhones, iPads, MacBooks, and more.</p>\r\n\r\n<p>The headphones feature a classic white color that complements the aesthetics of Apple products. They are lightweight and comfortable to wear for extended periods, making them ideal for daily use or during travel. The ergonomic design ensures a secure fit, preventing them from falling out during physical activities or movement.</p>\r\n\r\n<p>The Apple Headphone White comes with built-in controls that allow users to adjust volume levels, play/pause music, skip tracks, answer/end calls, and activate voice assistants conveniently. The integrated microphone ensures clear voice transmission during phone calls or voice commands.</p>\r\n\r\n<p>These headphones utilize advanced audio technology to deliver rich and immersive sound quality. Whether you enjoy listening to music, podcasts, audiobooks, or watching movies on your device, the Apple Headphone White enhances your overall audio experience with crisp highs and deep bass.</p>\r\n\r\n<p>In addition to their exceptional performance, these headphones are also durable and long-lasting. The high-quality materials used in their construction ensure longevity even with regular use.</p>\r\n\r\n<p>Overall, the Apple Headphone White offers a perfect combination of style, comfort, durability, and superior sound quality. It is an essential accessory for anyone seeking an enjoyable audio experience while using their Apple devices.5</p>",
+          "short_description": "The Apple Headphone White is a sleek and stylish audio accessory that offers high-quality sound reproduction. With its ergonomic design and comfortable fit, it allows for an immersive music listening experience. The white color adds a touch of elegance while maintaining the signature Apple aesthetic.",
+          "tag": null,
+          "meta_title": "Apple Headphone White - High-Quality Wired Earbuds for Enhanced Audio Experience",
+          "meta_description": null,
+          "meta_keyword": "Apple headphone white, wired earbuds, high-quality audio, clear sound, immersive experience, music lovers, audiophiles, comfortable fit, convenient controls"
+        },
+        "category": {
+          "name": "Electronics",
+          "category_id": 7
+        },
+        "special": {
+          "product_id": 9,
+          "price": "49.0000",
+          "start_date": "25/06/2023",
+          "end_date": "29/02/2024"
+        }
+      },
+      {
+        "id": 4,
+        "image": "16894050161687963375image_12-removebg-preview.png",
+        "category_id": 6,
+        "model": "BABY50",
+        "price": "30.00",
+        "quantity": 3997,
+        "sort_order": 1,
+        "status": 1,
+        "date_available": "28/06/2023",
+        "created_at": "2023-05-01T09:12:55.000000Z",
+        "viewed": 0,
+        "review_avg": null,
+        "productDescription": {
+          "id": 183,
+          "product_id": 4,
+          "language_id": 4,
+          "name": "Combo Pack for Baby Girls",
+          "description": "<p>Combo Pack for Baby Girls</p>\r\n\r\n<h1>Combo Pack for Baby Girls</h1>\r\n\r\n<p>Introducing our exclusive Combo Pack for Baby Girls, designed to provide everything you need to dress up your little princess in style and comfort. This combo pack is perfect for parents who want a convenient and affordable solution to their baby girl&#39;s wardrobe needs.</p>\r\n\r\n<p>The combo pack includes a variety of essential clothing items that are carefully selected to cater to the needs of your baby girl. It consists of adorable dresses, rompers, onesies, leggings, socks, and headbands, all made from high-quality materials that are gentle on your baby&#39;s delicate skin.</p>\r\n\r\n<p>Our combo pack offers a range of sizes suitable for newborns up to 24 months old, ensuring that your baby girl can enjoy these stylish outfits as she grows. Each item is designed with attention to detail and features cute prints, vibrant colors, and comfortable fits that will make your little one look even more adorable.</p>\r\n\r\n<p>In addition to being fashionable and comfortable, all the clothing items in this combo pack are easy to care for. They can be machine washed without losing their shape or color, allowing busy parents to spend more time enjoying precious moments with their little bundle of joy.</p>\r\n\r\n<p>Don&#39;t miss out on this amazing offer! Our Combo Pack for Baby Girls is the perfect choice for parents who want quality clothing at an affordable price. Order now and give your baby girl the stylish wardrobe she deserves!</p>",
+          "short_description": "The Combo Pack for Baby Girls is the perfect bundle of essentials for your little princess. It includes a soft and cozy onesie, a cute and stylish dress, and a pair of adorable socks. Made with love and care, this combo pack is sure to keep your baby girl comfortable and looking fashionable.",
+          "tag": null,
+          "meta_title": "Adorable Combo Pack for Baby Girls - Perfect Gift Set for Your Little Princess",
+          "meta_description": null,
+          "meta_keyword": null
+        },
+        "category": {
+          "name": "Kids Wear",
+          "category_id": 6
+        },
+        "special": null
+      },
+      {
+        "id": 2,
+        "image": "1689405160168796277032767-2-axe-spray-transparent-background_1__1_-removebg-preview.png",
+        "category_id": 7,
+        "model": "Headphone",
+        "price": "60.00",
+        "quantity": 4988,
+        "sort_order": 1,
+        "status": 1,
+        "date_available": "28/06/2023",
+        "created_at": "2023-05-01T09:02:50.000000Z",
+        "viewed": 0,
+        "review_avg": null,
+        "productDescription": {
+          "id": 268,
+          "product_id": 2,
+          "language_id": 4,
+          "name": "Black Headphone",
+          "description": "<p> </p>\r\n\r\n<h1>Black Headphone</h1>\r\n\r\n<p>A black headphone is a stylish and sleek audio device designed to provide an immersive listening experience. It is a popular choice among music enthusiasts, gamers, and professionals who value high-quality sound reproduction.</p>\r\n\r\n<p>The black color of the headphones adds a touch of elegance and sophistication, making it a fashionable accessory that complements any outfit or style. Whether you're using them for personal entertainment or professional purposes, these headphones are sure to make a statement.</p>\r\n\r\n<p>Featuring advanced technology and superior sound engineering, black headphones deliver crystal-clear audio with deep bass and crisp treble. They are equipped with noise-canceling capabilities that block out external distractions, allowing you to focus on your favorite music or immerse yourself in gaming adventures without interruptions.</p>\r\n\r\n<p>These headphones are designed for comfort, with adjustable headbands and cushioned ear cups that provide a snug fit over extended periods of use. The lightweight construction ensures that they can be worn for hours without causing discomfort or fatigue.</p>\r\n\r\n<p>With built-in microphones and controls conveniently placed on the ear cups, black headphones allow you to easily switch between music playback and taking calls on your smartphone. Some models even offer voice assistant integration for hands-free control.</p>\r\n\r\n<p>In conclusion, a black headphone combines style, comfort, and exceptional audio performance into one sleek package. Whether you're enjoying music at home or on the go, these headphones provide an immersive listening experience that will elevate your audio enjoyment to new heights.</p>",
+          "short_description": "Introducing our sleek and stylish black headphones, designed to deliver exceptional sound quality and comfort. With their adjustable headband and cushioned ear cups, these headphones are perfect for long listening sessions. Whether you're enjoying music or taking calls, our black headphones offer a premium audio experience with a touch of sophistication.",
+          "tag": null,
+          "meta_title": "Premium Black Headphone - Immerse Yourself in High-Quality Audio",
+          "meta_description": null,
+          "meta_keyword": null
+        },
+        "category": {
+          "name": "Electronics",
+          "category_id": 7
+        },
+        "special": null
+      }
+    ],
+    "dodProducts": [
+      {
+        "id": 8,
+        "image": "168797967232-running-shoes-png-image 1 (1).png",
+        "category_id": 3,
+        "model": "NIKE-99",
+        "price": "99.00",
+        "quantity": 9999,
+        "sort_order": 1,
+        "status": 1,
+        "date_available": "28/06/2023",
+        "created_at": "2023-05-01T13:44:23.000000Z",
+        "viewed": null,
+        "review_avg": null,
+        "productDescription": {
+          "name": "Nike Sneaker Orange & Gray",
+          "id": 202,
+          "product_id": 8
+        },
+        "category": {
+          "name": "Shoes",
+          "category_id": 3
+        },
+        "special": {
+          "product_id": 8,
+          "price": "59.0000",
+          "start_date": "25/06/2023",
+          "end_date": "31/03/2024"
+        }
+      },
+      {
+        "id": 9,
+        "image": "1689404981168797984127019-3-female-shoes-file_1__1_-removebg-preview.png",
+        "category_id": 7,
+        "model": "HEADPHONE-21",
+        "price": "59.00",
+        "quantity": 5995,
+        "sort_order": 1,
+        "status": 1,
+        "date_available": "28/06/2023",
+        "created_at": "2023-05-01T13:47:21.000000Z",
+        "viewed": null,
+        "review_avg": null,
+        "productDescription": {
+          "name": "Apple Headphone White",
+          "id": 180,
+          "product_id": 9
+        },
+        "category": {
+          "name": "Electronics",
+          "category_id": 7
+        },
+        "special": {
+          "product_id": 9,
+          "price": "49.0000",
+          "start_date": "25/06/2023",
+          "end_date": "29/02/2024"
+        }
+      },
+      {
+        "id": 36,
+        "image": "16882641401386068_OYHKDO0-removebg-preview.png",
+        "category_id": 7,
+        "model": "INFNITE-60",
+        "price": "180.00",
+        "quantity": 800,
+        "sort_order": 1,
+        "status": 1,
+        "date_available": "02/07/2023",
+        "created_at": "2023-07-01T20:45:40.000000Z",
+        "viewed": null,
+        "review_avg": null,
+        "productDescription": {
+          "name": "Infinite Smart 7 HD (Green Apple, 64 GB)  (2 GB RAM)",
+          "id": 169,
+          "product_id": 36
+        },
+        "category": {
+          "name": "Electronics",
+          "category_id": 7
+        },
+        "special": {
+          "product_id": 36,
+          "price": "130.0000",
+          "start_date": "01/07/2023",
+          "end_date": "31/03/2024"
+        }
+      },
+      {
+        "id": 14,
+        "image": "1687981308Product_11.jpg",
+        "category_id": 1,
+        "model": "HAT-45",
+        "price": "45.00",
+        "quantity": 45678,
+        "sort_order": 1,
+        "status": 1,
+        "date_available": "28/06/2023",
+        "created_at": "2023-05-01T14:11:48.000000Z",
+        "viewed": null,
+        "review_avg": null,
+        "productDescription": {
+          "name": "Blue Sun Hat",
+          "id": 203,
+          "product_id": 14
+        },
+        "category": {
+          "name": "Men Fashion",
+          "category_id": 1
+        },
+        "special": {
+          "product_id": 14,
+          "price": "25.0000",
+          "start_date": "25/06/2023",
+          "end_date": "01/05/2024"
+        }
+      },
+      {
+        "id": 10,
+        "image": "16894051281687963375image_14-removebg-preview.png",
+        "category_id": 2,
+        "model": "PARTY-W50",
+        "price": "50.00",
+        "quantity": 4995,
+        "sort_order": 1,
+        "status": 1,
+        "date_available": "28/06/2023",
+        "created_at": "2023-05-01T13:50:37.000000Z",
+        "viewed": null,
+        "review_avg": null,
+        "productDescription": {
+          "name": "Blue Party Wear Dress",
+          "id": 196,
+          "product_id": 10
+        },
+        "category": {
+          "name": "Women Fashion",
+          "category_id": 2
+        },
+        "special": {
+          "product_id": 10,
+          "price": "30.0000",
+          "start_date": "25/06/2023",
+          "end_date": "31/03/2024"
+        }
+      }
+    ],
+    "newProducts": [
+      {
+        "id": 71,
+        "image": "16919197821687981497image_25-removebg-preview.png",
+        "category_id": 8,
+        "model": "TAX-1",
+        "price": "50.00",
+        "quantity": 4438,
+        "sort_order": 1,
+        "status": 1,
+        "date_available": "13/08/2023",
+        "review_avg": null,
+        "product_description": {
+          "name": "Product Tax",
+          "id": 270,
+          "product_id": 71
+        },
+        "special": null
+      },
+      {
+        "id": 64,
+        "image": "1688278322one-white-sneaker-shoe-isolated-white-removebg-preview.png",
+        "category_id": 3,
+        "model": "WHITE52",
+        "price": "50.00",
+        "quantity": 32420,
+        "sort_order": 1,
+        "status": 1,
+        "date_available": "02/07/2023",
+        "review_avg": null,
+        "product_description": {
+          "name": "Puma  Training & Gym Shoes For",
+          "id": 262,
+          "product_id": 64
+        },
+        "special": null
+      },
+      {
+        "id": 63,
+        "image": "1688272855young-spanish-man-with-tattoos-posing-street-removebg-preview.png",
+        "category_id": 1,
+        "model": "CASUAL34",
+        "price": "15.00",
+        "quantity": 5149,
+        "sort_order": 1,
+        "status": 1,
+        "date_available": "02/07/2023",
+        "review_avg": null,
+        "product_description": {
+          "name": "Men Slim Fit Checkered Cut Away Collar Casual Shirt",
+          "id": 153,
+          "product_id": 63
+        },
+        "special": null
+      },
+      {
+        "id": 62,
+        "image": "1688272411young-handsome-hipster-man-standing-talking-phone-removebg-preview.png",
+        "category_id": 1,
+        "model": "SHIRTT22",
+        "price": "21.00",
+        "quantity": 12651,
+        "sort_order": 1,
+        "status": 1,
+        "date_available": "02/07/2023",
+        "review_avg": null,
+        "product_description": {
+          "name": "Fancy blue Shirt and pant",
+          "id": 235,
+          "product_id": 62
+        },
+        "special": null
+      }
+    ]
+  }
+}

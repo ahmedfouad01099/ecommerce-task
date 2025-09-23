@@ -11,7 +11,6 @@ import {
 import { createMaterialBottomTabNavigator } from '@react-navigation/material-bottom-tabs';
 import { useSelector } from 'react-redux';
 import {
-  SplashScreen,
   HomeScreen,
   SettingScreen,
   CartScreen,

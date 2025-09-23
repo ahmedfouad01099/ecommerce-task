@@ -1,0 +1,350 @@
+{
+  "banners": [
+    {
+      "id": 1,
+      "name": "Application Home Page Slider",
+      "status": 1,
+      "created_at": "2022-01-08 10:16:15",
+      "updated_at": "2022-01-08 04:46:15",
+      "deleted_at": null,
+      "images": [
+        {
+          "id": 1,
+          "banner_id": 1,
+          "language_id": null,
+          "title": "50% off",
+          "link": "product-1",
+          "image": "16472862101.jpg",
+          "sort_order": 1,
+          "created_at": "2023-07-09 00:32:27",
+          "updated_at": "2023-07-09 00:32:27",
+          "deleted_at": null,
+          "description": null,
+          "text_color_code": null
+        },
+        {
+          "id": 2,
+          "banner_id": 1,
+          "language_id": null,
+          "title": "10% OFF",
+          "link": "product-2",
+          "image": "16472862102.jpg",
+          "sort_order": 2,
+          "created_at": "2023-07-09 00:32:27",
+          "updated_at": "2023-07-09 00:32:27",
+          "deleted_at": null,
+          "description": null,
+          "text_color_code": null
+        },
+        {
+          "id": 3,
+          "banner_id": 1,
+          "language_id": null,
+          "title": "Banner",
+          "link": "cateogry-1",
+          "image": "16472862103.jpg",
+          "sort_order": 3,
+          "created_at": "2023-07-09 00:32:27",
+          "updated_at": "2023-07-09 00:32:27",
+          "deleted_at": null,
+          "description": null,
+          "text_color_code": null
+        },
+        {
+          "id": 4,
+          "banner_id": 1,
+          "language_id": null,
+          "title": "Banner",
+          "link": "brand-6",
+          "image": "16472862104.jpg",
+          "sort_order": 4,
+          "created_at": "2023-07-09 01:04:15",
+          "updated_at": "2023-07-09 01:04:15",
+          "deleted_at": null,
+          "description": null,
+          "text_color_code": null
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Application Banners",
+      "status": 1,
+      "created_at": "2023-07-05 05:39:17",
+      "updated_at": "2023-07-05 05:39:17",
+      "deleted_at": null,
+      "images": [
+        {
+          "id": 23,
+          "banner_id": 13,
+          "language_id": null,
+          "title": "Banner-3",
+          "link": "product-89",
+          "image": "1688868219banner2.jpg",
+          "sort_order": 2,
+          "created_at": "2023-07-09 02:03:39",
+          "updated_at": "2023-07-09 02:03:39",
+          "deleted_at": null,
+          "description": null,
+          "text_color_code": null
+        },
+        {
+          "id": 22,
+          "banner_id": 13,
+          "language_id": null,
+          "title": "Banner 2",
+          "link": "category-32",
+          "image": "16888687374481084_18713 (1).jpg",
+          "sort_order": 3,
+          "created_at": "2023-07-09 02:12:17",
+          "updated_at": "2023-07-09 02:12:17",
+          "deleted_at": null,
+          "description": null,
+          "text_color_code": null
+        },
+        {
+          "id": 21,
+          "banner_id": 13,
+          "language_id": null,
+          "title": "Sale",
+          "link": "product-411",
+          "image": "168886873710474790_18731150 (1).jpg",
+          "sort_order": 1,
+          "created_at": "2023-07-09 02:12:17",
+          "updated_at": "2023-07-09 02:12:17",
+          "deleted_at": null,
+          "description": null,
+          "text_color_code": null
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "WebSlider",
+      "status": 1,
+      "created_at": "2023-08-14 19:41:23",
+      "updated_at": "2023-08-14 19:41:23",
+      "deleted_at": null,
+      "images": [
+        {
+          "id": 24,
+          "banner_id": 14,
+          "language_id": null,
+          "title": null,
+          "link": null,
+          "image": "16892288361680180245Main Banner 2.jpg",
+          "sort_order": 1,
+          "created_at": "2023-07-13 06:15:28",
+          "updated_at": "2023-07-13 00:45:28",
+          "deleted_at": null,
+          "description": null,
+          "text_color_code": null
+        },
+        {
+          "id": 25,
+          "banner_id": 14,
+          "language_id": null,
+          "title": null,
+          "link": null,
+          "image": "168924257016545127231877.jpg",
+          "sort_order": 2,
+          "created_at": "2023-07-13 10:02:50",
+          "updated_at": "2023-07-13 04:32:50",
+          "deleted_at": null,
+          "description": null,
+          "text_color_code": null
+        },
+        {
+          "id": 26,
+          "banner_id": 14,
+          "language_id": null,
+          "title": null,
+          "link": null,
+          "image": "1689243020Black Yellow Bold Bag Fashion Sale Banner (2).png",
+          "sort_order": 3,
+          "created_at": "2023-07-13 10:10:20",
+          "updated_at": "2023-07-13 04:40:20",
+          "deleted_at": null,
+          "description": null,
+          "text_color_code": null
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "web-homepage-sub-banners",
+      "status": 1,
+      "created_at": "2023-08-11 07:02:34",
+      "updated_at": "2023-08-11 07:02:34",
+      "deleted_at": null,
+      "images": [
+        {
+          "id": 27,
+          "banner_id": 15,
+          "language_id": null,
+          "title": null,
+          "link": null,
+          "image": "16892290171680175511image 2 (1).png",
+          "sort_order": 1,
+          "created_at": "2023-07-13 06:16:57",
+          "updated_at": null,
+          "deleted_at": null,
+          "description": null,
+          "text_color_code": null
+        },
+        {
+          "id": 28,
+          "banner_id": 15,
+          "language_id": null,
+          "title": null,
+          "link": null,
+          "image": "16892290171680180059side banner 2.jpg",
+          "sort_order": 2,
+          "created_at": "2023-07-13 06:16:57",
+          "updated_at": null,
+          "deleted_at": null,
+          "description": null,
+          "text_color_code": null
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "web-left-slider",
+      "status": 1,
+      "created_at": "2023-07-13 00:49:43",
+      "updated_at": "2023-07-13 00:49:43",
+      "deleted_at": null,
+      "images": [
+        {
+          "id": 29,
+          "banner_id": 16,
+          "language_id": null,
+          "title": null,
+          "link": null,
+          "image": "1689229183167756189514931.jpg",
+          "sort_order": 1,
+          "created_at": "2023-07-13 06:19:43",
+          "updated_at": null,
+          "deleted_at": null,
+          "description": null,
+          "text_color_code": null
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "web-right-slider",
+      "status": 1,
+      "created_at": "2023-07-13 00:50:15",
+      "updated_at": "2023-07-13 00:50:15",
+      "deleted_at": null,
+      "images": [
+        {
+          "id": 30,
+          "banner_id": 17,
+          "language_id": null,
+          "title": null,
+          "link": null,
+          "image": "16892292151677561938SL-101819-24230-06.jpg",
+          "sort_order": 1,
+          "created_at": "2023-07-13 06:20:15",
+          "updated_at": null,
+          "deleted_at": null,
+          "description": null,
+          "text_color_code": null
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "web-three-column-banner",
+      "status": 1,
+      "created_at": "2023-07-13 00:51:50",
+      "updated_at": "2023-07-13 00:51:50",
+      "deleted_at": null,
+      "images": [
+        {
+          "id": 31,
+          "banner_id": 18,
+          "language_id": null,
+          "title": null,
+          "link": null,
+          "image": "16892293101679915850image 6.png",
+          "sort_order": 1,
+          "created_at": "2023-07-13 06:21:50",
+          "updated_at": null,
+          "deleted_at": null,
+          "description": null,
+          "text_color_code": null
+        },
+        {
+          "id": 32,
+          "banner_id": 18,
+          "language_id": null,
+          "title": null,
+          "link": null,
+          "image": "16892293101679915851image 8.png",
+          "sort_order": 2,
+          "created_at": "2023-07-13 06:21:50",
+          "updated_at": null,
+          "deleted_at": null,
+          "description": null,
+          "text_color_code": null
+        },
+        {
+          "id": 33,
+          "banner_id": 18,
+          "language_id": null,
+          "title": null,
+          "link": null,
+          "image": "16892293101679915851image 7.png",
+          "sort_order": 3,
+          "created_at": "2023-07-13 06:21:50",
+          "updated_at": null,
+          "deleted_at": null,
+          "description": null,
+          "text_color_code": null
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "web-two-column-banner",
+      "status": 1,
+      "created_at": "2023-07-13 00:52:46",
+      "updated_at": "2023-07-13 00:52:46",
+      "deleted_at": null,
+      "images": [
+        {
+          "id": 34,
+          "banner_id": 19,
+          "language_id": null,
+          "title": null,
+          "link": null,
+          "image": "16892293661680523123Group 431.png",
+          "sort_order": 1,
+          "created_at": "2023-07-13 06:22:46",
+          "updated_at": null,
+          "deleted_at": null,
+          "description": null,
+          "text_color_code": null
+        },
+        {
+          "id": 35,
+          "banner_id": 19,
+          "language_id": null,
+          "title": null,
+          "link": null,
+          "image": "16892293661680523123Group 430.png",
+          "sort_order": 2,
+          "created_at": "2023-07-13 06:22:46",
+          "updated_at": null,
+          "deleted_at": null,
+          "description": null,
+          "text_color_code": null
+        }
+      ]
+    }
+  ]
+}

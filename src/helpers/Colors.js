@@ -8,7 +8,7 @@ export function Colors() {
   let lightWhiteTxt = '#FAFAFA';
   let textColor = '#121533';
 
-  // if (theme == 'dark') {
+  // if (theme === 'dark') {
   //   white = '#000';
   //   lightWhite = '#000';
   //   offWhite = "#000";
